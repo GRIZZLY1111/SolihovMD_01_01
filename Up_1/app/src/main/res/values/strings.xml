@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="Converter">Конвертер единиц информации</string>
+    <string name="Is">Из</string>
+    <string name="V">В</string>
+    <string name="Home">В начало</string>
+    <string name="Vhod">Начать</string>
+    <string name="vvod">Введите число</string>
+    <string name="bait">Байт</string>
+    <string name="kilob">Килобайт</string>
+    <string name="rez">Результат</string>
+    <string name="but2">Вычислить</string>
+</resources>
